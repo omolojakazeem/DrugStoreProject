@@ -4,7 +4,7 @@ from .base import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['.heroku.com']
+ALLOWED_HOSTS = ['infinite-cove-35911.heroku.com']
 
 
 # Database
